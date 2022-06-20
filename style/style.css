@@ -18,7 +18,7 @@
     position: absolute;
     bottom: 0;
     width: 80px;
-    animation: pipe-animation 1s infinite linear;
+    animation: pipe-animation 1.5s infinite linear;
 }
 
 .mario {
@@ -35,7 +35,7 @@
 .clouds {
     position: absolute;
     width: 350px;
-    animation: clouds-animation 10s infinite linear;
+    animation: clouds-animation 20s infinite linear;
 }
 
 @keyframes pipe-animation {
